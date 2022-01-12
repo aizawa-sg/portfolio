@@ -29,6 +29,8 @@ string a="これはC#(cs)初期のブロック";
 
 ## 画像
 
+<img src="images/sample.png" style="width: 320px">
+
 ## 箇条書き
 
 ### 通常リスト
